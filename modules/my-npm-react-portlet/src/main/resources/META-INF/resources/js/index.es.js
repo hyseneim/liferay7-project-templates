@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
-const HelloWorld = () => <div>Hello World!</div>;
+import HelloWorld from './components/HelloWorld/HelloWorld';
 
 export default function(elementId) {
 	ReactDOM.render(<HelloWorld />, document.getElementById(elementId));
