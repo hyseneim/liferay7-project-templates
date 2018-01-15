@@ -1,4 +1,4 @@
-#	Test-npm-project
+#	Liferay7 project templates
 
 #	Informations
 /settings.gradle
