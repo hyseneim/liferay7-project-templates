@@ -1,0 +1,5 @@
+Bundle-Name: my-npm-billboardjs-portlet
+Bundle-SymbolicName: com.liferay.npm.billboardjs
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.npm.billboardjs.constants
+Web-ContextPath: /my-npm-billboardjs-portlet

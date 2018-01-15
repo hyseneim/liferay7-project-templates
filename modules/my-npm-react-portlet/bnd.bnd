@@ -1,0 +1,5 @@
+Bundle-Name: my-npm-react-portlet
+Bundle-SymbolicName: com.liferay.npm.react
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.npm.react.constants
+Web-ContextPath: /my-npm-react-portlet

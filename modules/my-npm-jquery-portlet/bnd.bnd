@@ -1,0 +1,5 @@
+Bundle-Name: my-npm-jquery-portlet
+Bundle-SymbolicName: com.liferay.npm.jquery
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.npm.jquery.constants
+Web-ContextPath: /my-npm-jquery-portlet

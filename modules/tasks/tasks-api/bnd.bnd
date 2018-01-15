@@ -1,0 +1,9 @@
+Bundle-Name: tasks-api
+Bundle-SymbolicName: com.liferay.docs.tasks.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.liferay.docs.tasks.exception,\
+	com.liferay.docs.tasks.model,\
+	com.liferay.docs.tasks.service,\
+	com.liferay.docs.tasks.service.persistence
+-includeresource: META-INF/service.xml=../tasks-service/service.xml

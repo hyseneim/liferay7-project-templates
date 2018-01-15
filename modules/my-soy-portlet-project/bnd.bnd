@@ -1,0 +1,11 @@
+Bundle-Name: my-soy-portlet-project
+Bundle-SymbolicName: com.liferay.docs.soyportlet
+Bundle-Version: 1.0.0
+Provide-Capability:\
+	soy;\
+		type="my-soy-portlet-project";\
+		version:Version="1.0.0"
+Require-Capability:\
+	soy;\
+		filter:="(type=metal)"
+-includeresource: package.json
